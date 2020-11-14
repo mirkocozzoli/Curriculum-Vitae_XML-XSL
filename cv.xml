@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Cv.xsl"?>
+<cv>
+  <informazioni_personali>
+    <nome_cognome>Mirko Cozzoli</nome_cognome>
+    <indirizzo>Via Monte Cervino 10, Paderno Dugnano (MI), italia</indirizzo>
+    <telefono>+39 370 1091370</telefono>
+    <email>mirkocozzoli02@gmail.com</email>
+    <linkedin>Mirko Cozzoli</linkedin>
+    <cittadinanza>Italiana</cittadinanza>
+    <data_nascita>24/05/2002</data_nascita>
+    <sesso>Maschile</sesso>
+  </informazioni_personali>
+  
+  <esperienza_professionale>
+    <data>Luglio 2020 - Agosto 2020</data>
+    <lavoro>Creazione sito web (www.okcomputer65.it) scritto in HTML e CSS. Sito internet responsive sia da tablet che da telefono cellulare.</lavoro>
+    <attivita>Sviluppatore sito web</attivita>
+    <datore>OkComputer65</datore>
+  </esperienza_professionale>
+  
+  <istruzione_formazione>
+    <data>06/2015</data>
+    <titolo_qualifica>Diploma scuola secondaria di primo grado</titolo_qualifica>
+    <principali_tematiche_acquisite>Istruzione</principali_tematiche_acquisite>
+    <nome_organizzazione_erogatrice>Scuola Media Statale Don Giovanni Minzoni</nome_organizzazione_erogatrice>  
+  </istruzione_formazione>
+
+  <istruzione_formazione2>
+    <data2>Attuale. Studente del quinto anno indirizzo informatico</data2>
+    <nome_organizzazione_erogatrice2>Istituto Istruzione Superiore Ettore Majorana</nome_organizzazione_erogatrice2>  
+  </istruzione_formazione2>
+  
+  <capacita_competenze>
+  	<madrelingua>Italiano</madrelingua>
+  	<altre_lingue>Inglese</altre_lingue>
+  	<autovalutazione>
+  		<lingue>
+  			<inglese>
+  				<ascolto>B2</ascolto>
+  				<lettura>B2</lettura>
+  				<produzione_orale>B1</produzione_orale>
+  				<interazione_orale>B2</interazione_orale>
+  				<scrittura>B1</scrittura>
+  			</inglese>
+  		</lingue>
+  	</autovalutazione>
+  </capacita_competenze>
+  
+  
+  <competenze_digitali>
+  	<pc>Buona conoscenza delle specifiche hardware e software del PC. Assemblaggio e configurazione PC</pc>
+  	<linguaggi>HTML/CSS, Java, C, XML</linguaggi>
+  	<pacchetto_office>Padronanza del pacchetto office (Word, Excel, PowerPoint ecc.)</pacchetto_office>
+  	<web>Esperienza di base del web design e dei linguaggi css e html. Utilizzo del browser</web>
+  </competenze_digitali>
+  
+  <hobby_interessi>
+  	<attivita_sportive>Giocatore di bocce specialita RAFFA agonistico militante in serie A</attivita_sportive>
+  	<passioni>Appassionato all'aviazione civile e ai simulatori di volo (pratico a livello avanzato voli su simulatori). Appassionato di videogiochi</passioni>
+  </hobby_interessi>
+  
+</cv>
